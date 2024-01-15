@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "329897606722",
+    "firebase_url": "https://peduli-lindungi-d0aad-default-rtdb.firebaseio.com",
+    "project_id": "peduli-lindungi-d0aad",
+    "storage_bucket": "peduli-lindungi-d0aad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329897606722:android:8974e742b69e1461d237db",
+        "android_client_info": {
+          "package_name": "com.example.pedulilindungi_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329897606722-4tbd2h16iadpnu8dh2qq15q9en2es5kh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKBvO8y7cw9WeVZObsuTWtvoUv0CFUBsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329897606722-4tbd2h16iadpnu8dh2qq15q9en2es5kh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

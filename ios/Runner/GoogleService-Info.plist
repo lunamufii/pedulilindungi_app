@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>329897606722-jou7bkkr164j1g5ij0qtqes03unbb157.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.329897606722-jou7bkkr164j1g5ij0qtqes03unbb157</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDh7lf-Kr7Nc-a8ebRYj8Cjfb2N15PGDPE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>329897606722</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.pedulilindungiApp</string>
+	<key>PROJECT_ID</key>
+	<string>peduli-lindungi-d0aad</string>
+	<key>STORAGE_BUCKET</key>
+	<string>peduli-lindungi-d0aad.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:329897606722:ios:d432f95605441826d237db</string>
+	<key>DATABASE_URL</key>
+	<string>https://peduli-lindungi-d0aad-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
